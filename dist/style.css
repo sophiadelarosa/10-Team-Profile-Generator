@@ -1,0 +1,32 @@
+body {
+    font-family: 'Inconsolata', monospace;
+    background-image: url('./img/background.png');
+    background-size: 100%;
+    margin-left: 5%;
+}
+
+#navbar {
+    color: white;
+}
+
+.navbar-brand {
+    margin-top: -10px;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.card-header {
+    background-color: rgba(79, 87, 135, 0.734);
+    color: white;
+}
+
+.card-body {
+    background-color: white;
+    color: rgb(119, 136, 153);
+}
+
+.container {
+    margin: 100px auto;
+    justify-content: space-evenly;
+    display: flex;
+}
